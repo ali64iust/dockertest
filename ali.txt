@@ -12,4 +12,6 @@ git remote -v
 git push origin master
 
 
+setting == developer setting == access token
+
 
